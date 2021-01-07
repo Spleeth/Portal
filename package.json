@@ -16,5 +16,6 @@
     "eslint": "^7.17.0",
     "mongoose": "^5.11.10",
     "path": "^0.12.7"
-  }
+  },
+  "start": "node index.js"
 }
