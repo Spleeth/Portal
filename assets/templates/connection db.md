@@ -1,0 +1,1 @@
+mongoose.connect('mongodb+srv://Bot_Portal:admin@portal.fdzhz.mongodb.net/data', { useNewUrlParser: true, useUnifiedTopology: true})
